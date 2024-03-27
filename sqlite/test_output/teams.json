@@ -1,0 +1,38 @@
+[
+    {
+        "team_id": 0,
+        "team_name": "Poznań Capricorns"
+    },
+    {
+        "team_id": 1,
+        "team_name": "Łódź Pirates"
+    },
+    {
+        "team_id": 2,
+        "team_name": "Warszawa Unicorns"
+    },
+    {
+        "team_id": 3,
+        "team_name": "Wrocław Eagles"
+    },
+    {
+        "team_id": 4,
+        "team_name": "Szczecin Cheetahs"
+    },
+    {
+        "team_id": 5,
+        "team_name": "Stargard Stars"
+    },
+    {
+        "team_id": 6,
+        "team_name": "Kraków Miners"
+    },
+    {
+        "team_id": 7,
+        "team_name": "Śląsk Lumberjacks"
+    },
+    {
+        "team_id": 8,
+        "team_name": "Lublin Lynx"
+    }
+]

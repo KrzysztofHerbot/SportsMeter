@@ -1,0 +1,6 @@
+[
+    {"substitution_id": 0, "substitution_time": "121000", "substitution_match": 0, "substituted_player": 0, "substituting_player": 3, "substituted_player_name": "Maciej Kleban", "substituting_player_name": "Jakub Grzesiak"},
+    {"substitution_id": 1, "substitution_time": "145000", "substitution_match": 4, "substituted_player": 5, "substituting_player": 10, "substituted_player_name": "Tomasz Kaszuba", "substituting_player_name": "Kacper Babiak"},
+    {"substitution_id": 2, "substitution_time": "122000", "substitution_match": 0, "substituted_player": 1, "substituting_player": 2, "substituted_player_name": "Krzysztof Herbot", "substituting_player_name": "Kinga Banasik"},
+    {"substitution_id": 3, "substitution_time": "150000", "substitution_match": 4, "substituted_player": 7, "substituting_player": 8, "substituted_player_name": "Artur Będziechowski", "substituting_player_name": "Dagmara Wierzowiecka"}
+]

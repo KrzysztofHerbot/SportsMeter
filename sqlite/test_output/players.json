@@ -1,0 +1,13 @@
+[
+    {"player_id": 0, "player_name": "Maciej Kleban", "player_gender": "Male", "player_team": "Poznań Capricorns"},
+    {"player_id": 1, "player_name": "Krzysztof Herbot", "player_gender": "Male", "player_team": "Łódź Pirates"},
+    {"player_id": 2, "player_name": "Kinga Banasik", "player_gender": "Female", "player_team": "Łódź Pirates"},
+    {"player_id": 3, "player_name": "Jakub Grzesiak", "player_gender": "Male", "player_team": "Poznań Capricorns"},
+    {"player_id": 4, "player_name": "Dorota Solarska", "player_gender": "Female", "player_team": "Warszawa Unicorns"},
+    {"player_id": 5, "player_name": "Tomasz Kaszuba", "player_gender": "Male", "player_team": "Warszawa Unicorns"},
+    {"player_id": 6, "player_name": "Monika Borowska", "player_gender": "Female", "player_team": "Poznań Capricorns"},
+    {"player_id": 7, "player_name": "Artur Będziechowski", "player_gender": "Male", "player_team": "Łódź Pirates"},
+    {"player_id": 8, "player_name": "Dagmara Wierzowiecka", "player_gender": "Female", "player_team": "Łódź Pirates"},
+    {"player_id": 9, "player_name": "Filip Bochniak", "player_gender": "Male", "player_team": "Poznań Capricorns"},
+    {"player_id": 10, "player_name": "Kacper Babiak", "player_gender": "Male", "player_team": "Warszawa Unicorns"}
+]

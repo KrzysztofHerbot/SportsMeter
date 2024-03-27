@@ -1,0 +1,8 @@
+[
+    {"match_player_id": 0, "match_player": 0, "match_id": 0, "player_active": 1},
+    {"match_player_id": 1, "match_player": 6, "match_id": 0, "player_active": 1},
+    {"match_player_id": 2, "match_player": 9, "match_id": 0, "player_active": 1},
+    {"match_player_id": 3, "match_player": 1, "match_id": 0, "player_active": 1},
+    {"match_player_id": 4, "match_player": 7, "match_id": 0, "player_active": 1},
+    {"match_player_id": 5, "match_player": 8, "match_id": 0, "player_active": 1}
+]

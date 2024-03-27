@@ -1,0 +1,68 @@
+[
+    {
+        "match_id": 0,
+        "match_date": "20220312",
+        "match_start_time": "113000",
+        "match_end_time": "123000",
+        "match_season": 0,
+        "team_a_id": 0,
+        "team_b_id": 1,
+        "team_a_points": 50,
+        "team_b_points": 100
+    },
+    {
+        "match_id": 1,
+        "match_date": "20220403",
+        "match_start_time": "102000",
+        "match_end_time": "114000",
+        "match_season": 0,
+        "team_a_id": 4,
+        "team_b_id": 5,
+        "team_a_points": 30,
+        "team_b_points": 70
+    },
+    {
+        "match_id": 2,
+        "match_date": "20220510",
+        "match_start_time": "102000",
+        "match_end_time": "114000",
+        "match_season": 0,
+        "team_a_id": 3,
+        "team_b_id": 7,
+        "team_a_points": 20,
+        "team_b_points": 80
+    },
+    {
+        "match_id": 3,
+        "match_date": "20220613",
+        "match_start_time": "131500",
+        "match_end_time": "143000",
+        "match_season": 0,
+        "team_a_id": 0,
+        "team_b_id": 6,
+        "team_a_points": 10,
+        "team_b_points": 90
+    },
+    {
+        "match_id": 4,
+        "match_date": "20220720",
+        "match_start_time": "143000",
+        "match_end_time": "153000",
+        "match_season": 1,
+        "team_a_id": 1,
+        "team_b_id": 2,
+        "team_a_points": 35,
+        "team_b_points": 65
+    },
+    {
+        "match_id": 5,
+        "match_date": "20220810",
+        "match_start_time": "090500",
+        "match_end_time": "112000",
+        "match_season": 1,
+        "team_a_id": 2,
+        "team_b_id": 8,
+        "team_a_points": 60,
+        "team_b_points": 40
+    }
+]

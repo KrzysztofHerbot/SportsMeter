@@ -1,0 +1,6 @@
+[
+    {"notification_id": 0, "notification_title": "Spring Games", "notification_description": "23-03-23"},
+    {"notification_id": 1, "notification_title": "Krakow Quadball Cup", "notification_description": "14-08-23"},
+    {"notification_id": 2, "notification_title": "Summer Games", "notification_description": "08-09-23"},
+    {"notification_id": 3, "notification_title": "Winter Games", "notification_description": "30-10-23"}
+]

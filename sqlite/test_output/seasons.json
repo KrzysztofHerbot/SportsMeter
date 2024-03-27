@@ -1,0 +1,14 @@
+[
+    {
+        "season_id": 0,
+        "season_title": "2023",
+        "season_start_date": "20220309",
+        "season_end_date": "20220614"
+    },
+    {
+        "season_id": 1,
+        "season_title": "2022",
+        "season_start_date": "20220703",
+        "season_end_date": "20220910"
+    }
+]
